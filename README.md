@@ -1,16 +1,12 @@
-## Hi there 👋
+## Hello, World!
 
-<!--
-**L1Blom/L1Blom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Leen Blom
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on RAG service to learn GenAI and coding Python
+- 🌱 I’m currently learning Python and LangChain
+- 👯 I’m looking to collaborate on: I don't feel experienced enough to tell
+- 🤔 I’m looking for help with automation
+- 💬 Ask me about anything related to maintaining large application portfolios
+- 📫 How to reach me: github@lblom.nl
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: 40 years in IT and still learning!
