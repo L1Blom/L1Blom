@@ -3,6 +3,7 @@
 I am Leen Blom
 
 - I’m currently working on RAG service to learn GenAI and coding Python
+- I'm currently working on RAGUI user interface for RAG to learn GenAI and coding React
 - I’m currently learning Python and LangChain
 - I’m looking to collaborate on: I don't feel experienced enough to tell
 - I’m looking for help with automation
